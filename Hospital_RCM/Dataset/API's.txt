@@ -1,0 +1,11 @@
+ICD API 
+	https://icd.who.int/icdapi
+
+	ClientId: 613f2000-55b9-484c-8151-d7c2f2515bce_ddc98af7-d560-44f4-91c8-92e2ed7d8f96 
+	ClientSecret: o9T5cXukCk6GML51zU/gltjcAnthKH4309BTW/c2GDI= 
+	This is WHO API A00-A09 
+
+ 
+
+NPI API 
+	https://npiregistry.cms.hhs.gov/api-page
