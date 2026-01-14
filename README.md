@@ -1,8 +1,8 @@
-# 📊 Power BI Dashboard Portfolio
+## 📊 Power BI Dashboard Portfolio
 This repository showcases **Power BI** dashboards built to analyze real-world business and healthcare datasets.  
 The projects demonstrate my ability to transform data into actionable insights using Power BI, DAX, and data modeling best practices.
 
-## 🏥 Hospital Revenue Cycle Management (RCM) Dashboard
+### 🏥 Hospital Revenue Cycle Management (RCM) Dashboard
 
 #### Objective:
 Analyze hospital financial performance by tracking claims, payments, outstanding AR, and transaction activity.
@@ -17,7 +17,7 @@ Analyze hospital financial performance by tracking claims, payments, outstanding
 #### Business Impact:
 Helps healthcare finance teams identify revenue leakage, delayed payments, and AR risk drivers.
 
-## 💼 Sales Performance Dashboard
+### 💼 Sales Performance Dashboard
 
 #### Objective:
 Monitor sales, profit, growth, and forecasting across regions, products, and customer segments.
@@ -32,7 +32,7 @@ Monitor sales, profit, growth, and forecasting across regions, products, and cus
 #### Business Impact:
 Supports sales strategy, performance tracking, and demand planning through data-driven insights.
 
-# 🛠 Skills Demonstrated
+## 🛠 Skills Demonstrated
 
 - Power BI Dashboard Design
 - DAX (KPIs, YoY %, Profit Margin, Forecasting)
@@ -41,13 +41,13 @@ Supports sales strategy, performance tracking, and demand planning through data-
 - Business & Financial Analytics
 - Interactive Visuals, Drill-downs & Slicer
   
-# 📂 How to View
+## 📂 How to View
 
 - Download or clone the repository
 - Open .pbix files using Power BI Desktop
 - Interact with slicers and visuals to explore insights
   
-# 👤 About Me
+## 👤 About Me
 
 I am a **Data & Analytics professional** with hands-on experience in **Power BI, SQL, and Data Engineering**, focused on building dashboards that deliver clear **business value**.
 
