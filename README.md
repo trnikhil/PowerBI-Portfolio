@@ -2,7 +2,7 @@
 This repository showcases **Power BI** dashboards built to analyze real-world business and healthcare datasets.  
 The projects demonstrate my ability to transform data into actionable insights using Power BI, DAX, and data modeling best practices.
 
-### 🏥 Hospital Revenue Cycle Management (RCM) Dashboard
+### [🏥 Hospital Revenue Cycle Management (RCM) Dashboard](./Hospital_RCM)
 
 #### Objective:
 Analyze hospital financial performance by tracking claims, payments, outstanding AR, and transaction activity.
@@ -17,7 +17,7 @@ Analyze hospital financial performance by tracking claims, payments, outstanding
 #### Business Impact:
 Helps healthcare finance teams identify revenue leakage, delayed payments, and AR risk drivers.
 
-### 💼 Sales Performance Dashboard
+### [💼 Sales Performance Dashboard](./Sales_Dashboard)
 
 #### Objective:
 Monitor sales, profit, growth, and forecasting across regions, products, and customer segments.
